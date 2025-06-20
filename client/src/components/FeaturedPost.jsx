@@ -26,7 +26,7 @@ const FeaturedPost = () => {
         <div className='mt-8 flex flex-col gap-8 lg:flex-row'>
             {/* Main featured */}
             <div className='w-full lg:w-1/2 flex flex-col gap-4'>
-                <Image src={main.img || 'default.jpg'} className='rounded-3xl object-cover shadow-md' w={895} />
+                <Image src={main.img || 'default.jpg'} className='rounded-3xl object-cover shadow-md mr-2' w={895} />
                 <div className='flex items-center gap-2'>
                     <h1 className='font-semibold lg:text-lg'>1.</h1>
                     <Link to={`/posts?cat=${main.category}`} className='text-blue-500 lg:text-lg'>{main.category}</Link>
