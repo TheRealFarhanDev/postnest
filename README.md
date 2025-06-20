@@ -103,19 +103,19 @@ CLERK_WEBHOOK_SECRET=your_clerk_webhook_secret
 ## 📸 Screenshots & Demo
 
 ### 🏠 Home Page
-![Home](./public/home.png)
+![Home](./client/public/home.png)
 
 ### ✍️ Create Post
-![Create Post](./public/create-post.png)
+![Create Post](./client/public/create-post.png)
 
 ### 📄 Post Detail View
-![Post Detail](./public/post-detail.png)
+![Post Detail](./client/public/post-detail.png)
 
 ### 🔐 Login Screen
-![Login](./public/login.png)
+![Login](./client/public/login.png)
 
 ### 📊 Dashboard
-![Dashboard](./public/filter.png)
+![Dashboard](./client/public/filter.png)
 
 ---
 
