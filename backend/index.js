@@ -49,5 +49,5 @@ app.get('/ping', (req, res) => {
 
 app.listen(3000, () => {
   connectDB();
-  console.log(`Server is running at ${process.env.CLIENT_URL}`);
+  console.log(`Server is running at https://postnest-zsmf.onrender.com/`);
 })
