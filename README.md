@@ -11,11 +11,11 @@ Postnest is a sleek, full-featured blogging platform built with the modern web s
 
 ## 🔧 Tech Stack
 
-| Frontend | Backend | Hosting | Misc |
-|----------|---------|---------|------|
-| React + Vite ⚛️ | Node.js + Express.js 🌐 | Vercel (Frontend) ▲ | Clerk (Auth) 🔐 |
-| Tailwind CSS 🎨 | MongoDB Atlas 🍃 | Render (Backend) 🚀 | UptimeRobot (Monitoring) 📈 |
-| ShadCN UI 🧩 |                       |                         | React-Quill (Rich Text) 📝 |
+| Frontend        | Backend                 | Hosting             | Misc                        |
+| --------------- | ----------------------- | ------------------- | --------------------------- |
+| React + Vite ⚛️ | Node.js + Express.js 🌐 | Vercel (Frontend) ▲ | Clerk (Auth) 🔐             |
+| Tailwind CSS 🎨 | MongoDB Atlas 🍃        | Render (Backend) 🚀 | UptimeRobot (Monitoring) 📈 |
+| ShadCN UI 🧩    |                         |                     | React-Quill (Rich Text) 📝  |
 
 ---
 
@@ -102,22 +102,35 @@ CLERK_WEBHOOK_SECRET=your_clerk_webhook_secret
 
 ## 📸 Screenshots & Demo
 
-### 🏠 Home Page
-![Home](./client/public/home.png)
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
-### ✍️ Create Post
-![Create Post](./client/public/create-post.png)
+  <div>
+    <p align="center"><strong>🏠 Home Page</strong></p>
+    <img src="https://raw.githubusercontent.com/TheRealFarhanDev/postnest/main/client/public/screenshots/home.png" alt="Home Page" width="400"/>
+  </div>
 
-### 📄 Post Detail View
-![Post Detail](./client/public/post-detail.png)
+  <div>
+    <p align="center"><strong>✍️ Create Post</strong></p>
+    <img src="https://raw.githubusercontent.com/TheRealFarhanDev/postnest/main/client/public/screenshots/create-post.png" alt="Create Post" width="400"/>
+  </div>
 
-### 🔐 Login Screen
-![Login](./client/public/login.png)
+  <div>
+    <p align="center"><strong>📄 Post Detail View</strong></p>
+    <img src="https://raw.githubusercontent.com/TheRealFarhanDev/postnest/main/client/public/screenshots/post-detail.png" alt="Post Detail" width="400"/>
+  </div>
 
-### 📊 Dashboard
-![Dashboard](./client/public/filter.png)
+  <div>
+    <p align="center"><strong>🔐 Login Screen</strong></p>
+    <img src="https://raw.githubusercontent.com/TheRealFarhanDev/postnest/main/client/public/screenshots/login.png" alt="Login" width="400"/>
+  </div>
+
+  <div>
+    <p align="center"><strong>📊 Post Filter Page</strong></p>
+    <img src="https://raw.githubusercontent.com/TheRealFarhanDev/postnest/main/client/public/screenshots/filter.png" alt="Post Filter Page" width="400"/>
+  </div>
+
+</div>
 
 ---
-
 
 Made with ❤️ by [@TheRealFarhanDev](https://github.com/TheRealFarhanDev)
