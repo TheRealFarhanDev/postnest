@@ -234,6 +234,10 @@
 
 }
 
+.soft-gradient{
+  background: linear-gradient(135deg, #f5f7fa, #c3cfe2, #a1b5d8);
+}
+
 .animatedButton {
   animation-duration: 20000ms;
 }

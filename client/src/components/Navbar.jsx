@@ -44,7 +44,7 @@ const Navbar = () => {
       </div>
       {/* Mobile LInk List  */}
       <div
-        className={`md:hidden fixed top-16 left-0 w-full h-screen bg-[#e6e6ff] z-10 transition-transform duration-300 ease-in-out transform ${open && isMobile ? 'translate-x-0' : 'translate-x-full'
+        className={`md:hidden fixed top-16 left-0 w-full h-screen soft-gradient z-10 transition-transform duration-300 ease-in-out transform ${open && isMobile ? 'translate-x-0' : 'translate-x-full'
           }`}
       >
         <div className="flex flex-col justify-center items-center gap-8 text-lg font-medium h-full">
