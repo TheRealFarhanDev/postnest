@@ -47,6 +47,10 @@ app.get('/ping', (req, res) => {
   res.status(200).send('✅ Server is alive!');
 });
 
+app.get('/', (req, res) => {
+  res.status(200).send('Welcome!');
+});
+
 app.listen(3000, () => {
   connectDB();
   console.log(`Server is running at https://postnest-zsmf.onrender.com/`);
