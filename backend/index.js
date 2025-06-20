@@ -43,8 +43,8 @@ app.use((err, req, res, next) => {
 });
 
 
-app.get('/ping', (req, res) => {
-  res.status(200).send('✅ Server is alive!');
+app.head("/ping", (req, res) => {
+  res.status(200).end(); // No body for HEAD, just status
 });
 
 app.get('/', (req, res) => {
