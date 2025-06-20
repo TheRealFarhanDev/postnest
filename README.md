@@ -102,34 +102,37 @@ CLERK_WEBHOOK_SECRET=your_clerk_webhook_secret
 
 ## 📸 Screenshots & Demo
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 24px;">
+## 📸 Screenshots & Demo
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px;">
 
   <div>
     <p><strong>🏠 Home Page</strong></p>
-    <img src="https://raw.githubusercontent.com/TheRealFarhanDev/postnest/main/client/public/screenshots/home.png" alt="Home Page" width="100%"/>
+    <img src="https://raw.githubusercontent.com/TheRealFarhanDev/postnest/main/client/public/screenshots/home.png" alt="Home Page" width="300"/>
   </div>
 
   <div>
     <p><strong>✍️ Create Post</strong></p>
-    <img src="https://raw.githubusercontent.com/TheRealFarhanDev/postnest/main/client/public/screenshots/create-post.png" alt="Create Post" width="100%"/>
+    <img src="https://raw.githubusercontent.com/TheRealFarhanDev/postnest/main/client/public/screenshots/create-post.png" alt="Create Post" width="300"/>
   </div>
 
   <div>
     <p><strong>📄 Post Detail View</strong></p>
-    <img src="https://raw.githubusercontent.com/TheRealFarhanDev/postnest/main/client/public/screenshots/post-detail.png" alt="Post Detail" width="100%"/>
+    <img src="https://raw.githubusercontent.com/TheRealFarhanDev/postnest/main/client/public/screenshots/post-detail.png" alt="Post Detail" width="300"/>
   </div>
 
   <div>
     <p><strong>🔐 Login Screen</strong></p>
-    <img src="https://raw.githubusercontent.com/TheRealFarhanDev/postnest/main/client/public/screenshots/login.png" alt="Login" width="100%"/>
+    <img src="https://raw.githubusercontent.com/TheRealFarhanDev/postnest/main/client/public/screenshots/login.png" alt="Login" width="300"/>
   </div>
 
   <div>
     <p><strong>📊 Post Filter Page</strong></p>
-    <img src="https://raw.githubusercontent.com/TheRealFarhanDev/postnest/main/client/public/screenshots/filter.png" alt="Post Filter Page" width="100%"/>
+    <img src="https://raw.githubusercontent.com/TheRealFarhanDev/postnest/main/client/public/screenshots/filter.png" alt="Post Filter Page" width="300"/>
   </div>
 
 </div>
+
 
 ---
 
