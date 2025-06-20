@@ -44,7 +44,11 @@ app.use((err, req, res, next) => {
 
 
 app.head("/ping", (req, res) => {
-  res.status(200).end(); // No body for HEAD, just status
+  res.status(200).end();
+});
+
+app.get("/ping", (req, res) => {
+  res.status(200).json({ message: "pong" });
 });
 
 app.get('/', (req, res) => {
