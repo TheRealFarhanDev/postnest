@@ -102,31 +102,31 @@ CLERK_WEBHOOK_SECRET=your_clerk_webhook_secret
 
 ## 📸 Screenshots & Demo
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 24px;">
 
   <div>
-    <p align="center"><strong>🏠 Home Page</strong></p>
-    <img src="https://raw.githubusercontent.com/TheRealFarhanDev/postnest/main/client/public/screenshots/home.png" alt="Home Page" width="400"/>
+    <p><strong>🏠 Home Page</strong></p>
+    <img src="https://raw.githubusercontent.com/TheRealFarhanDev/postnest/main/client/public/screenshots/home.png" alt="Home Page" width="100%"/>
   </div>
 
   <div>
-    <p align="center"><strong>✍️ Create Post</strong></p>
-    <img src="https://raw.githubusercontent.com/TheRealFarhanDev/postnest/main/client/public/screenshots/create-post.png" alt="Create Post" width="400"/>
+    <p><strong>✍️ Create Post</strong></p>
+    <img src="https://raw.githubusercontent.com/TheRealFarhanDev/postnest/main/client/public/screenshots/create-post.png" alt="Create Post" width="100%"/>
   </div>
 
   <div>
-    <p align="center"><strong>📄 Post Detail View</strong></p>
-    <img src="https://raw.githubusercontent.com/TheRealFarhanDev/postnest/main/client/public/screenshots/post-detail.png" alt="Post Detail" width="400"/>
+    <p><strong>📄 Post Detail View</strong></p>
+    <img src="https://raw.githubusercontent.com/TheRealFarhanDev/postnest/main/client/public/screenshots/post-detail.png" alt="Post Detail" width="100%"/>
   </div>
 
   <div>
-    <p align="center"><strong>🔐 Login Screen</strong></p>
-    <img src="https://raw.githubusercontent.com/TheRealFarhanDev/postnest/main/client/public/screenshots/login.png" alt="Login" width="400"/>
+    <p><strong>🔐 Login Screen</strong></p>
+    <img src="https://raw.githubusercontent.com/TheRealFarhanDev/postnest/main/client/public/screenshots/login.png" alt="Login" width="100%"/>
   </div>
 
   <div>
-    <p align="center"><strong>📊 Post Filter Page</strong></p>
-    <img src="https://raw.githubusercontent.com/TheRealFarhanDev/postnest/main/client/public/screenshots/filter.png" alt="Post Filter Page" width="400"/>
+    <p><strong>📊 Post Filter Page</strong></p>
+    <img src="https://raw.githubusercontent.com/TheRealFarhanDev/postnest/main/client/public/screenshots/filter.png" alt="Post Filter Page" width="100%"/>
   </div>
 
 </div>
