@@ -102,8 +102,6 @@ CLERK_WEBHOOK_SECRET=your_clerk_webhook_secret
 
 ## 📸 Screenshots & Demo
 
-## 📸 Screenshots & Demo
-
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px;">
 
   <div>
