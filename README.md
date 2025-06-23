@@ -5,7 +5,7 @@ Postnest is a sleek, full-featured blogging platform built with the modern web s
 🚀 **Live Demo**: [https://postnest.vercel.app](https://postnest.vercel.app)  
 📦 **Repository**: [github.com/TheRealFarhanDev/postnest](https://github.com/TheRealFarhanDev/postnest)
 
-![Postnest Preview](./public/postnest-preview.png)
+![Postnest Preview](./client/public/postnest-preview.png)
 
 ---
 
