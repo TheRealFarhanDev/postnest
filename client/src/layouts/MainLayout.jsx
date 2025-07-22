@@ -9,6 +9,7 @@ import {
   BreadcrumbSeparator,
   BreadcrumbPage
 } from "@/components/ui/breadcrumb";
+import { RenderSleepAlertDialog } from '../components/SleepAlert.jsx';
 
 const MainLayout = () => {
   const location = useLocation();
@@ -17,6 +18,8 @@ const MainLayout = () => {
   return (
     <div className='px-4 md:px-8 lg:px-16 xl:px-32 2xl:px-64'>
       <Navbar />
+
+      <RenderSleepAlertDialog/>
 
       {/* Breadcrumbs */}
       {pathnames.length > 0 && (
