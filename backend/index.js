@@ -10,6 +10,7 @@ import bodyParser from 'body-parser';
 
 const app = express();
 
+connectDB();
 app.use("/webhooks", bodyParser.raw({ type: "application/json" }));
 
 app.use(cors({
@@ -56,6 +57,5 @@ app.get('/', (req, res) => {
 });
 
 app.listen(3000, () => {
-  connectDB();
   console.log(`Server is running at https://postnest-zsmf.onrender.com/`);
 })
